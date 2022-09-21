@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\bin\Debug\net6.0\Trask.exe
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\bin\Debug\net6.0\Trask.deps.json
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\bin\Debug\net6.0\Trask.runtimeconfig.json
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\bin\Debug\net6.0\Trask.dll
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\bin\Debug\net6.0\Trask.pdb
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.dll
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\refint\Trask.dll
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.pdb
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\Trask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Itog\Finalproject\Trask\obj\Debug\net6.0\ref\Trask.dll
